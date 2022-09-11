@@ -229,3 +229,8 @@ item_01 {
     height: 300px;
     background-image: linear-gradient(blue 0, blue 0, green 33%, green 33%, red 100%);
 }
+
+.container {
+    max-width: 991px;
+    font-size: 26px;
+}
